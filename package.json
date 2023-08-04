@@ -15,8 +15,5 @@
     "url": "https://github.com/RafaDiCarlo/TpCoderhouse/issues"
   },
   "homepage": "https://github.com/RafaDiCarlo/TpCoderhouse#readme",
-  "description": "",
-  "dependencies": {
-    "bootstrap": "^5.3.1"
-  }
+  "description": ""
 }
